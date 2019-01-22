@@ -1,1 +1,2 @@
-# my CV at vdovin-ivan.github.io
+# vdovin-ivan.github.io
+Just CV 
