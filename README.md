@@ -1,2 +1,3 @@
 # vdovin-ivan.github.io
-Just CV 
+Hi! 
+It's just my CV.
